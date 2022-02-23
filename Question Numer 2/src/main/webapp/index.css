@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body{
+   
+}
+
+.form-page{
+border:2px dotted black;
+background-color: rgba(black, black, black, 0.5);
+padding: 5px;
+width: 100%;
+}
+
+.nums{
+    width: 20%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
